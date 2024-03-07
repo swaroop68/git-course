@@ -1,2 +1,4 @@
 this is user data
 process the user data
+
+create an avatar for the user
